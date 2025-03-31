@@ -1,2 +1,3 @@
-# Pacote_de_processamento_de_imagens_com_python
- 
+# Imagem Processor
+
+Pacote Python para processamento de imagens, com funcionalidades como redimensionamento, filtro de desfoque e conversão para escala de cinza.

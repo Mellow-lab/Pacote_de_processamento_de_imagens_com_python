@@ -1,0 +1,12 @@
+LICENSE
+README.md
+setup.py
+imagem_processor/__init__.py
+imagem_processor/core.py
+imagem_processor/utils.py
+imagem_processor.egg-info/PKG-INFO
+imagem_processor.egg-info/SOURCES.txt
+imagem_processor.egg-info/dependency_links.txt
+imagem_processor.egg-info/requires.txt
+imagem_processor.egg-info/top_level.txt
+tests/test_core.py

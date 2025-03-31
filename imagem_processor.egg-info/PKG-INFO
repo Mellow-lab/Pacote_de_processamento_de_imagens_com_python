@@ -1,0 +1,19 @@
+Metadata-Version: 2.4
+Name: imagem_processor
+Version: 0.1.0
+Summary: Um pacote para processamento de imagens com Python
+Home-page: https://github.com/seunome/imagem_processor
+Author: Eduardo Melo
+Author-email: edumelo2205@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+License-File: LICENSE
+Requires-Dist: Pillow
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: home-page
+Dynamic: license-file
+Dynamic: requires-dist
+Dynamic: summary
